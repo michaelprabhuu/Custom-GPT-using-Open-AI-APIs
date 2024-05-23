@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Blazor_Server</RootNamespace>
+    <UserSecretsId>524b8a7e-3741-48ed-a852-5c164ef8b7b1</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DataFiles\Blazor_DS2023V4 - Copy.pdf" />
+    <None Remove="DataFiles\Blazor_DS2023V4.pdf" />
+    <None Remove="DataFiles\SyncBlazor.txt" />
+    <None Remove="Data\SyncBlazor.txt" />
+    <None Remove="mike.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\send.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="DataFiles\SyncBlazor.txt">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.Blazor.Buttons" Version="25.2.3" />
+    <PackageReference Include="Syncfusion.Blazor.Inputs" Version="25.1.41" />
+    <PackageReference Include="Syncfusion.Blazor.Lists" Version="25.1.41" />
+    <PackageReference Include="Syncfusion.Blazor.Notifications" Version="25.2.3" />
+    <PackageReference Include="Syncfusion.Blazor.Spinner" Version="25.1.41" />
+    <PackageReference Include="Syncfusion.Blazor.SplitButtons" Version="25.1.41" />
+    <PackageReference Include="Syncfusion.Blazor.Themes" Version="25.1.41" />
+    <PackageReference Include="Syncfusion.XlsIO.Net.Core" Version="25.1.41" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="DataFiles\Blazor_DS2023V4 - Copy.pdf" />
+    <Resource Include="DataFiles\Blazor_DS2023V4.pdf" />
+  </ItemGroup>
+
+</Project>

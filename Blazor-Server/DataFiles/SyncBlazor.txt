@@ -1,0 +1,120 @@
+﻿Boldsign is an e-signature applicaiton provided by Syncfusion. This allows users to collect legally binding eSignatures online.
+Eventhough the applicaiton is provided by Syncfusion, you have to get a separate license for Boldsign at Boldsign.com
+Features: 
+eSignature requests: Send requests and configure them to speed up signing
+Templates: Save time by turning frequently used contracts into templates
+Branding: Add your logo and brand colors to make the experience feel authentic
+Bulk links: Create a reusable link to collect signatures from multiple people
+Bulk send: Send multiple documents at once
+Document management: Categorize and track documents sent and received
+Audit trail: Create a detailed record of all actions and changes made to a document, including user identities, timestamps, and activities
+Automated reminders: Configure the frequency and number of reminders to send before sending documents for signature
+Digital signatures: Allow customers to finger-sign documents or orders from their mobile phones
+Bulk link: Add multiple roles when creating a bulk link to enhance collaboration and workflow efficiency
+Custom branding: Add your branding to emails and the user interface
+Automatic field detection: Automatically detect form fields when a prefilled form is attached to a document
+Document expiry: Set an expiry date for digital documents
+Sequential signing: Ensure recipients sign in a specified order
+
+Syncfusion Blazor platform contains the following components
+GRIDS
+DataGrid
+Pivot Table
+Tree Grid
+DATA VISUALIZATION
+Charts
+Stock Chart
+Circular Gauge
+Linear Gauge
+Diagram
+HeatMap Chart
+Map
+Range Selector
+Smith Chart
+Sparkline Charts
+Barcode Generator
+TreeMap
+Bullet Chart
+Kanban
+CALENDARS
+Scheduler
+Gantt Chart
+Calendar
+DatePicker
+DateRangePicker
+DateTime Picker
+TimePicker
+FILE VIEWERS & EDITORS
+Rich Text Editor
+Word Processor
+PDF Viewer
+Image Editor
+DROPDOWNS
+AutoComplete
+ListBox
+ComboBox
+Dropdown List
+Dropdown Tree
+MultiSelect Dropdown
+Mention
+DOCUMENT PROCESSING LIBRARIES
+Excel
+PDF
+Word
+PowerPoint
+NAVIGATION
+Accordion
+AppBar
+Breadcrumb
+Carousel
+Context Menu
+Menu Bar
+Sidebar
+Tabs
+Toolbar
+TreeView
+File Manager
+Pager
+Stepper
+INPUTS
+TextBox
+Input Mask
+Numeric Textbox
+Radio Button
+Checkbox
+Color Picker
+File Upload
+Range Slider
+Signature
+Toggle Switch Button
+Rating
+LAYOUT
+Dialog
+ListView
+Tooltip
+Splitter
+Dashboard
+Card
+Media Query
+TimelinePREVIEW
+BUTTONS
+Button
+Button Group
+Dropdown Menu
+Progress Button
+Split Button
+Chips
+Floating Action Button
+Speed Dial
+FORMS
+In-place Editor
+Query Builder
+Data Form
+NOTIFICATION
+Message
+Toast
+Progress Bar
+Spinner
+Skeleton
+REPORTS
+Report Viewer

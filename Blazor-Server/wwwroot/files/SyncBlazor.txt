@@ -1,0 +1,17 @@
+﻿Boldsign is an e-signature applicaiton provided by Syncfusion. This allows users to collect legally binding eSignatures online.
+Eventhough the applicaiton is provided by Syncfusion, you have to get a separate license for Boldsign at Boldsign.com
+Features: 
+eSignature requests: Send requests and configure them to speed up signing
+Templates: Save time by turning frequently used contracts into templates
+Branding: Add your logo and brand colors to make the experience feel authentic
+Bulk links: Create a reusable link to collect signatures from multiple people
+Bulk send: Send multiple documents at once
+Document management: Categorize and track documents sent and received
+Audit trail: Create a detailed record of all actions and changes made to a document, including user identities, timestamps, and activities
+Automated reminders: Configure the frequency and number of reminders to send before sending documents for signature
+Digital signatures: Allow customers to finger-sign documents or orders from their mobile phones
+Bulk link: Add multiple roles when creating a bulk link to enhance collaboration and workflow efficiency
+Custom branding: Add your branding to emails and the user interface
+Automatic field detection: Automatically detect form fields when a prefilled form is attached to a document
+Document expiry: Set an expiry date for digital documents
+Sequential signing: Ensure recipients sign in a specified order

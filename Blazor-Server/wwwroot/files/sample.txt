@@ -1,0 +1,29 @@
+﻿<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Syncfusion Blazor DataGrid",
+  "description": "Documentation for Syncfusion Blazor DataGrid component",
+  "url": "https://blazor.syncfusion.com/documentation/datagrid/getting-started",
+  "applicationCategory": "DeveloperTools",
+  "operatingSystem": "Web",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "bestRating": "5",
+    "ratingCount": "14500"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Syncfusion"
+  },
+  "datePublished": "2024-05-02",
+  "keywords": ["Syncfusion", "Blazor", "DataGrid", "Documentation"],
+  "license": "https://www.syncfusion.com/solutions/licensing",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Syncfusion",
+    "url": "https://www.syncfusion.com"
+  }
+}
+</script>
